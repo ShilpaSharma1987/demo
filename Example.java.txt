@@ -1,0 +1,7 @@
+class Example
+{
+public void main(String[] arg)
+{
+System.out.println("hi example");
+}
+}
